@@ -2,7 +2,7 @@
 
 The starting point for people to interact with Redgate Foundry products.
 
-## SQL Search extension for SQL Operations Studio
+## SQL Search extension for Azure Data Studio
 
 - [SQL Search extension](https://www.redgatefoundry.com/SQLSearch)
 
