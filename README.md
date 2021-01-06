@@ -1,3 +1,3 @@
-# foundry
+# Redgate SQL Search extension for Azure Data Studio
 
-The starting point for people to interact with Redgate Foundry products.
+If you find any bugs or have any feature requests please file an issue with a `SQL Search` label.
